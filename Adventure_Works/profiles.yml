@@ -1,4 +1,4 @@
-airbyte_snowflake:
+Adventure_Works:
   outputs:
     dev:
       type: snowflake
