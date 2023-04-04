@@ -1,4 +1,4 @@
-# Adventure Works ETL Pipeline using AWS, Airbyte, Snowflake and Dbt
+# Adventure Works ELT Pipeline using AWS, Airbyte, Snowflake and Dbt
 The project aims to deploy Adventure Works public dataset over airbyte integration to Snowflake to develop Data Build tool for transformation of the tables and dimensional modelling to get better insights into the adventure work datasets for Extract, Load and Transform.
 
 # Workflow
