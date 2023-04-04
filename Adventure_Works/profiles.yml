@@ -3,7 +3,7 @@ airbyte_snowflake:
     dev:
       type: snowflake
       threads: 1
-      account: kw91423.ap-southeast-1
+      account: {{Snowflake_user_id}}
       user: AIRBYTE_USER
       password: password
       role: AIRBYTE_ROLE
