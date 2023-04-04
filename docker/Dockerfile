@@ -1,6 +1,6 @@
 FROM ghcr.io/dbt-labs/dbt-snowflake:1.2.0
 
-COPY AIRBYTE_SNOWFLAKE/ .
+COPY Adventure_Works/ .
 
 COPY docker/run_commands.sh .
 
